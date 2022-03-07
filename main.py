@@ -1,5 +1,3 @@
-
-
 # -----IMPORTS-----
 import sys
 from better_profanity import profanity
